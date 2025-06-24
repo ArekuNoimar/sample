@@ -1,0 +1,6 @@
+{
+  "zero_optimization": {
+    "stage": 1
+  },
+  "train_batch_size": 1
+}
