@@ -3,5 +3,9 @@ wandb/
 __pycache__/
 trainer_output/
 output/
-src/sample/
+
+
+src/test/
 src/fine-tuning-cookbook/output/
+src/fine-tuning/output/
+src/distributed-parallel-learning/output/
